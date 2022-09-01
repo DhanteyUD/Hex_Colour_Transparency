@@ -7,7 +7,7 @@
 For example, you want to set **40%** transparence to `#000000` (black color), you need to add `66` like this `#00000066`.
 
 
-### All hex value from 100% to 0% alpha
+### All hex transparency value from 100% to 0%
 
 
 - **100% — FF**
