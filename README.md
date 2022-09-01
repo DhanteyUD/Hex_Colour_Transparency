@@ -1,20 +1,14 @@
 # Hexadecimal color code transparency
 
-[![Twitter](https://img.shields.io/badge/Twitter-@LopezMikhael-blue.svg?style=flat)](http://twitter.com/lopezmikhael)
+[![Twitter](https://img.shields.io/badge/Twitter-@dhantey_ud-blue.svg?style=flat)](http://twitter.com/dhantey_ud)
 
 ### How to set transparency with hex value ?
 
-For example, you want to set **40%** alpha transparence to `#000000` (black color), you need to add `66` like this `#66000000`.
+For example, you want to set **40%** transparence to `#000000` (black color), you need to add `66` like this `#00000066`.
 
-### Download This sample on Google Play Store
 
-<a href="https://play.google.com/store/apps/details?id=com.mikhaellopez.lopspower">
-  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>
+### All hex value from 100% to 0% alpha
 
-### All hex value from 100% to 0% alpha:
-
-<img src="https://media.giphy.com/media/L2Zu4wTounuNk1bwVw/giphy.gif" width="400" alt="sample" title="sample" align="right" />
 
 - **100% — FF**
 - 99% — FC
@@ -117,10 +111,3 @@ For example, you want to set **40%** alpha transparence to `#000000` (black colo
 - 2% — 05
 - 1% — 03
 - **0% — 00**
-
-***
-
-:books: Best Android Gists
-=================
-
-You can see other best Android Gists or offer your just here [https://github.com/lopspower/BestAndroidGists](https://github.com/lopspower/BestAndroidGists) :+1:.
