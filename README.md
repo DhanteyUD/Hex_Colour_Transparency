@@ -1,4 +1,4 @@
-# Hexadecimal color code transparency
+# Hexadecimal Color Code Transparency
 
 [![Twitter](https://img.shields.io/badge/Twitter-@dhantey_ud-blue.svg?style=flat)](http://twitter.com/dhantey_ud)
 
